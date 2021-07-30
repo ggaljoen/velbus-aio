@@ -1,5 +1,7 @@
 [![Python checks](https://github.com/ggaljoen/velbus-aio/actions/workflows/main.yml/badge.svg)](https://github.com/ggaljoen/velbus-aio/actions/workflows/main.yml)
+# not mine
 ![CodeQL](https://github.com/Cereal2nd/velbus-aio/workflows/CodeQL/badge.svg)
+
 
 # velbus-aio
 
